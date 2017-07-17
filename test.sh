@@ -1,1 +1,0 @@
-echo "hai test kamal"
